@@ -1,18 +1,11 @@
-/* * {
-  color: brown;
+* {
+  margin: 10px;
 }
 
 body {
-  color: darkblue;
-} */
-
-/* h1,
-p,
-a {
-  border-style: dashed;
-  border-radius: 5px;
-  border-color: blue;
-} */
+  padding: 10px;
+  background-color: aliceblue;
+}
 
 .myParagraph {
   color: blueviolet;
@@ -45,7 +38,7 @@ a {
   color: violet;
 }
 .imageandtable {
-  height: 150px;
+  height: 170px;
 }
 
 a #tableImg {
