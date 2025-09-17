@@ -19,6 +19,7 @@ h1 {
 .nav_links {
   cursor: pointer;
   color: #c463f8;
+  text-align: center;
 }
 .nav_links:hover {
   color: #f6e7fe;
